@@ -121,6 +121,10 @@ POST /api/agendamentos/
     "data_hora": "2025-08-30T10:00:00",
     "tipo": "presencial"
 }
+
+
+
+
 🔗 Links Úteis
 Documentação Django - https://docs.djangoproject.com/en/5.2/
 
